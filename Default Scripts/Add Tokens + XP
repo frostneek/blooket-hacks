@@ -50,4 +50,4 @@
     }
     img.onerror = img.onabort = () => (img.src = null, cheat());
 })();
-window.alert("Developed by Hackthegamezjj");
+window.alert("Developed by frostneek");
